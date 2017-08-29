@@ -1,0 +1,24 @@
+{
+    "name": "js-env",
+    "version": "1.0.0",
+    "description": "settings",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/adrianf223/js-env.git"
+    },
+    "keywords": [
+        "settings"
+    ],
+    "author": "Adrian",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/adrianf223/js-env/issues"
+    },
+    "homepage": "https://github.com/adrianf223/js-env#readme"
+}
